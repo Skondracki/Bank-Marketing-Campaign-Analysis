@@ -6,10 +6,11 @@ The Bank Marketing Campaign Analysis project is the capstone project of an onlin
 ## Dataset:
 
 The dataset used can be found here [https://archive.ics.uci.edu/dataset/222/bank+marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing). While 4 datasets were created from the campaign tne subset bank-full.csv was used for this project.
-bank-additional-full.csv: Contains all examples (41,188) and 20 input features, ordered by date.
-bank-additional.csv: A subset of 10% of the examples (4,119) randomly selected from the full dataset.
-bank-full.csv: Contains all examples and 17 input features, ordered by date (an older version of the dataset with fewer inputs).
-bank.csv: A subset of 10% of the examples (4,119) randomly selected from the older dataset with fewer inputs.
+ - bank-additional-full.csv: Contains all examples (41,188) and 20 input features, ordered by date.
+ - bank-additional.csv: A subset of 10% of the examples (4,119) randomly selected from the full dataset.
+ - bank-full.csv: Contains all examples and 17 input features, ordered by date (an older version of the dataset with fewer inputs).
+ - bank.csv: A subset of 10% of the examples (4,119) randomly selected from the older dataset with fewer inputs.
+
 The core objective is to predict whether a client will subscribe to a term deposit, represented by the binary target variable "subscribed."
 
 ## Why This Project?
