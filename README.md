@@ -16,6 +16,24 @@ The core objective is to predict whether a client will subscribe to a term depos
 ## Why This Project?
 The project is vital because it demonstrates the application of data science techniques in the banking sector, specifically in predicting customer behavior regarding subscribing to term deposit products. This predictive capability can significantly impact marketing strategies and campaign outcomes.
 
+## How to Run the Code
+
+1. Prerequisites:
+   - Install Jupyter Notebook.
+   - Make sure you have the required libraries installed: numpy, pandas, seaborn, matplotlib. You can install them using `!pip install library_name` within a Jupyter cell.
+
+2. Download the Dataset:
+   - Download the dataset 'full.csv' and place it in the same directory as your Jupyter Notebook file.
+
+3. Opening the Jupyter Notebook:
+   - Open a terminal or command prompt.
+   - Navigate to the directory containing your Jupyter Notebook file and the dataset.
+   - In the Jupyter Notebook interface, locate your notebook file and open it.
+     
+4. Executing the code:
+   - Execute each code cell in sequence to load, preprocess, and analyze the data.
+   - Use commented out code and analysis to help with your understanding of each code block.
+
 ## Features and Technologies
 
 - Data preprocessing to clean and transform the dataset.
